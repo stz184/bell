@@ -1,0 +1,1 @@
+console.info('Nothing here. Run npm test to execute the tests');
